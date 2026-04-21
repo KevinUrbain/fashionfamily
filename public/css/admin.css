@@ -1,0 +1,868 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f6f6f6;
+  font-family: "Manrope", sans-serif;
+}
+
+/* --------------------- Login Form------------------------------ */
+.container {
+  width: 384px;
+  height: 453px;
+  box-shadow: inset 0px 0px 1px rgba(233, 233, 235, 0.87);
+  border-radius: 5px;
+  background: #fff;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 116px;
+  height: 40px;
+  margin: 50px auto;
+  gap: 12px;
+  padding-inline: 8px;
+}
+
+.logo img {
+  width: 16px;
+  height: 30px;
+  padding-block: 2px;
+}
+
+.logo h1 {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Manrope", sans-serif;
+  line-height: 2.4;
+}
+
+.form-group {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  gap: 5px;
+}
+
+.form-group label {
+  color: #474b57;
+}
+
+.form-group input {
+  height: 45px;
+  padding: 10px 15px;
+  outline: none;
+  border: none;
+  box-shadow: inset 0 0 3px rgba(230, 231, 232, 1);
+  border-radius: 6px;
+  margin-bottom: 15px;
+}
+
+input:focus {
+  box-shadow: inset 0 0 0 1px #999;
+}
+
+button {
+  width: 318px;
+  height: 44px;
+  background: #0e1422;
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.75;
+  border-radius: 4px;
+  cursor: pointer;
+  display: block;
+  margin: 30px auto;
+}
+
+/* ----------------- acceuil dashboard ------------------ */
+
+.layout {
+  width: 100%;
+  height: 935px;
+  display: flex;
+}
+
+.sidebar {
+  width: 260px;
+  height: 925px;
+  background: #ffffff;
+}
+
+.sidebar nav {
+  width: 212px;
+  height: 326px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sidebar nav ul {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.sidebar nav ul li {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  list-style: none;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.75;
+  cursor: pointer;
+  gap: 10px;
+}
+
+.sidebar nav ul a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.main {
+  width: 100%;
+  height: 100%;
+}
+
+.header {
+  max-width: 1440px;
+  width: 100%;
+  height: 72px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding-left: 25px;
+}
+
+.header h1 {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 1.5;
+  font-family: "Manrope", sans-serif;
+}
+
+/* ---------------------content Dashboard------------------ */
+
+.content {
+  max-width: 1440px;
+  width: 100%;
+  height: 750px;
+  margin: 0px auto;
+}
+
+/* -------------------------- Card----------------------- */
+.container_top {
+  max-width: 1440px;
+  width: 100%;
+  height: 187px;
+  display: flex;
+  gap: 80px;
+}
+
+.container_left,
+.container_middle,
+.container_right {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.container_left,
+.container_middle {
+  padding: 20px;
+}
+
+.container_right {
+  padding: 20px 0 0;
+}
+
+.container_right .card_header {
+  padding: 0 20px;
+}
+
+.container_left .card_header,
+.container_middle .card_header,
+.container_right .card_header {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.container_left .txt,
+.container_middle .txt,
+.container_right .txt {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.container_left .txt h2,
+.container_middle .txt h2,
+.container_right .txt h2,
+.container_bottom_left .txt h2 {
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+.container_left .txt h3,
+.container_middle .txt h3,
+.container_right .txt h3,
+.container_bottom_left .txt h3 {
+  font-size: 12px;
+  color: #5c5f6a;
+  line-height: 1.75;
+  text-transform: uppercase;
+  letter-spacing: 5%;
+}
+
+.container_left #sales,
+.container_middle #customers,
+.container_right #orders {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  display: block;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1;
+  text-align: right;
+}
+
+.container_left .img,
+.container_middle .img,
+.container_right .img {
+  margin-top: auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.container_left img,
+.container_middle img,
+.container_right img {
+  width: 100%;
+  max-width: 274px;
+  height: auto;
+  display: block;
+}
+
+.container_left .img canvas,
+.container_middle .img canvas {
+  width: 100% !important;
+  max-width: 274px;
+  height: 70px !important;
+}
+
+.orders-progress {
+  padding: 0 20px 20px;
+  margin-top: auto;
+}
+
+.orders-left {
+  font-size: 13px;
+  color: #5c5f6a;
+  margin-bottom: 8px;
+}
+
+.orders-left span {
+  font-weight: 700;
+  color: #0e1422;
+}
+
+.progress-track {
+  width: 100%;
+  height: 8px;
+  background: #e9e9eb;
+  border-radius: 100px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  background: #4a90d9;
+  border-radius: 100px;
+  transition: width 0.8s ease;
+}
+
+.card {
+  width: 328px;
+  height: 187px;
+  box-shadow: inset 0 0 3px rgba(233, 233, 235, 1);
+  background: #fff;
+  border-radius: 8px;
+}
+
+.container_bottom {
+  max-width: 1140px;
+  width: 100%;
+  height: 475px;
+  display: flex;
+  gap: 80px;
+  margin-top: 30px;
+}
+
+.container_bottom_left {
+  width: 328px;
+  height: 475px;
+  background: #fff;
+}
+
+.container_bottom_right {
+  width: 730px;
+  height: 475px;
+  background: #fff;
+}
+
+.container_bottom_left .txt {
+  padding: 20px;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid #e9e9eb;
+}
+
+.total_sales {
+  padding: 20px;
+}
+
+.total_sales :nth-child(1) {
+  font-size: 28px;
+  color: #1c1d22;
+  line-height: 1.75;
+  letter-spacing: 5%;
+  font-weight: bold;
+}
+
+.total {
+  font-size: 14px;
+  color: #5c5f6a;
+  line-height: 1.75;
+  letter-spacing: 5%;
+}
+
+.best_seller_list {
+  padding: 5px 20px;
+}
+
+.best_seller_item {
+  width: 270px;
+  height: 28px;
+  padding: 2px 16px;
+  border: 1px solid #5c5f6a23;
+  border-radius: 100px;
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.best_seller_item :nth-child(2) {
+  font-size: 12px;
+  color: #0e1422;
+  line-height: 2.4;
+  font-weight: 600;
+}
+
+.container_bottom_left .img {
+  margin: 20px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.container_bottom_right .txt {
+  position: relative;
+  padding: 20px;
+}
+
+.container_bottom_right .txt h2 {
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+.container_bottom_right .txt span {
+  position: absolute;
+  top: 20px;
+  left: 130px;
+  font-size: 12px;
+  color: #5c5f6a;
+  line-height: 1.75;
+  letter-spacing: 5%;
+  border: 1px solid #5c5f6a23;
+  border-radius: 8px;
+  padding: 2px 16px;
+  background: #f6f6f6;
+}
+
+table {
+  width: 694px;
+  margin: auto;
+}
+
+thead {
+  margin-bottom: 30px;
+  border-top: 1px solid #ddd;
+}
+
+th,
+td {
+  padding: 12px 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f6f6f6;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+/* --------------------- Table produits --------------------- */
+
+.admin-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  font-family: "Manrope", sans-serif;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: inset 0 0 3px rgba(233, 233, 235, 1);
+}
+
+.admin-table thead {
+  background: #0e1422;
+  color: #fff;
+  border-top: none;
+}
+
+.admin-table thead th {
+  padding: 12px 16px;
+  text-align: left;
+  font-weight: 600;
+  white-space: nowrap;
+  background-color: #0e1422;
+}
+
+.admin-table tbody tr {
+  border-bottom: 1px solid #f0f0f0;
+  transition: background 0.15s;
+}
+
+.admin-table tbody tr:last-child {
+  border-bottom: none;
+}
+
+.admin-table tbody tr:hover {
+  background: #f6f6f6;
+}
+
+.admin-table tbody td {
+  padding: 10px 16px;
+  color: #474b57;
+  vertical-align: middle;
+}
+
+.admin-table .table-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.admin-table .table-actions form {
+  margin: 0;
+  display: inline-flex;
+}
+
+.admin-table .btn-edit,
+.admin-table .btn-delete {
+  display: inline-block;
+  width: auto;
+  height: auto;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-family: inherit;
+  font-weight: 500;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+  border: none;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.admin-table .btn-edit {
+  background: #f0f0f0;
+  color: #0e1422;
+}
+
+.admin-table .btn-delete {
+  background: #fdecea;
+  color: #c0392b;
+}
+
+/* --------------------- Settings --------------------- */
+
+.settings-wrapper {
+  max-width: 480px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 24px;
+}
+
+.settings-section h2 {
+  font-size: 15px;
+  font-weight: 600;
+  color: #0e1422;
+  margin-bottom: 16px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.settings-section label {
+  display: block;
+  font-size: 13px;
+  font-weight: 500;
+  color: #474b57;
+  margin-bottom: 4px;
+  margin-top: 12px;
+}
+
+.settings-section input {
+  width: 100%;
+  padding: 8px 12px;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  font-size: 13px;
+  font-family: inherit;
+  box-sizing: border-box;
+}
+
+.settings-section button[type="submit"] {
+  margin-top: 16px;
+  width: auto;
+  height: auto;
+  padding: 8px 20px;
+  font-size: 13px;
+  font-family: inherit;
+  font-weight: 500;
+  background: #0e1422;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.flash-success {
+  padding: 10px 14px;
+  background: #eafaf1;
+  color: #1e8449;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.flash-error {
+  padding: 10px 14px;
+  background: #fdecea;
+  color: #c0392b;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+/* --------------------- Section header + barre de recherche --------------------- */
+
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.section-header h2 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #0e1422;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.search-bar input {
+  height: 38px;
+  padding: 0 14px;
+  font-size: 13px;
+  font-family: "Manrope", sans-serif;
+  color: #0e1422;
+  background: #fff;
+  border: none;
+  border-radius: 6px;
+  box-shadow: inset 0 0 0 1px #e0e0e0;
+  outline: none;
+  width: 260px;
+  transition: box-shadow 0.15s;
+}
+
+.search-bar input:focus {
+  box-shadow: inset 0 0 0 1.5px #0e1422;
+}
+
+.search-bar input::placeholder {
+  color: #a0a3ad;
+}
+
+.search-bar button {
+  width: auto;
+  height: 38px;
+  padding: 0 16px;
+  font-size: 13px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 600;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  margin: 0;
+}
+
+#search-btn {
+  background: #0e1422;
+  color: #fff;
+}
+
+#search-btn:hover {
+  background: #1e2a3a;
+}
+
+#search-reset-btn {
+  background: #f0f0f0;
+  color: #474b57;
+}
+
+#search-reset-btn:hover {
+  background: #e4e4e4;
+}
+
+.no-results {
+  padding: 24px 16px;
+  color: #5c5f6a;
+  font-size: 14px;
+}
+
+/* --------------------- Commandes : badges statut --------------------- */
+
+.order-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 100px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+}
+
+.order-badge--pending   { background: #fff3cd; color: #856404; }
+.order-badge--paid      { background: #d0e8ff; color: #0a58ca; }
+.order-badge--shipped   { background: #ede3ff; color: #6610f2; }
+.order-badge--delivered { background: #d4edda; color: #155724; }
+.order-badge--cancelled { background: #fdecea; color: #c0392b; }
+
+/* --------------------- Commandes : select statut --------------------- */
+
+.status-form {
+  margin: 0;
+}
+
+.status-select {
+  height: 30px;
+  padding: 0 8px;
+  font-size: 12px;
+  font-family: "Manrope", sans-serif;
+  color: #474b57;
+  background: #f6f6f6;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+}
+
+/* --------------------- Bouton retour au site --------------------- */
+
+.header-actions-admin {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.btn-back-site {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 14px;
+  background: #f0f0f0;
+  color: #0e1422;
+  font-size: 13px;
+  font-family: "Manrope", sans-serif;
+  font-weight: 500;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+
+.btn-back-site:hover {
+  background: #e0e0e0;
+}
+
+/* --------------------- Responsive dashboard admin --------------------- */
+
+@media (max-width: 1024px) {
+  .layout {
+    height: auto;
+    min-height: 100vh;
+  }
+
+  .content {
+    height: auto;
+    min-height: 400px;
+  }
+
+  .container_top {
+    flex-wrap: wrap;
+    height: auto;
+    gap: 20px;
+  }
+
+  .container_bottom {
+    flex-wrap: wrap;
+    height: auto;
+    gap: 20px;
+  }
+
+  .container_bottom_left,
+  .container_bottom_right {
+    width: 100%;
+    height: auto;
+  }
+
+  table {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    align-items: flex-start;
+  }
+
+  .layout {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: auto;
+    padding-bottom: 16px;
+  }
+
+  .sidebar nav {
+    width: 100%;
+    height: auto;
+    padding: 12px 16px;
+  }
+
+  .sidebar nav ul {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .main {
+    width: 100%;
+  }
+
+  .header {
+    padding: 0 16px;
+    flex-wrap: wrap;
+    gap: 8px;
+    height: auto;
+    padding-block: 12px;
+  }
+
+  .card {
+    width: 100%;
+    height: auto;
+    min-height: 120px;
+  }
+
+  .container_left,
+  .container_middle,
+  .container_right {
+    width: 100%;
+    min-height: 120px;
+  }
+
+  .admin-table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+
+  .settings-wrapper {
+    padding: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .sidebar nav ul {
+    flex-direction: column;
+  }
+
+  .section-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .search-bar {
+    width: 100%;
+  }
+
+  .search-bar input {
+    width: 100%;
+  }
+}

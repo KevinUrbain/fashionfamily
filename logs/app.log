@@ -1,0 +1,558 @@
+[2026-03-28 14:36:23] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:09:46] [error] Erreur [2] : Undefined variable $title dans C:\laragon\www\FashionFamily\src\views\user\dashboard.php à la ligne 1
+[2026-03-28 15:10:02] [error] Erreur [2] : Undefined variable $title dans C:\laragon\www\FashionFamily\src\views\user\dashboard.php à la ligne 1
+[2026-03-28 15:11:14] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\controllers\dashboard.php à la ligne 8
+[2026-03-28 15:11:14] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\controllers\dashboard.php à la ligne 8
+[2026-03-28 15:11:25] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\controllers\dashboard.php à la ligne 8
+[2026-03-28 15:11:36] [error] Erreur [2] : Undefined array key "id" dans C:\laragon\www\FashionFamily\src\controllers\dashboard.php à la ligne 8
+[2026-03-28 15:12:08] [error] Erreur [2] : Array to string conversion dans C:\laragon\www\FashionFamily\src\views\user\dashboard.php à la ligne 3
+[2026-03-28 15:12:29] [error] Erreur [2] : Undefined variable $name dans C:\laragon\www\FashionFamily\src\views\user\dashboard.php à la ligne 3
+[2026-03-28 15:12:29] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\user\dashboard.php à la ligne 3
+[2026-03-28 15:20:21] [error] Exception : Call to undefined function getUserById() dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 312
+[2026-03-28 15:20:58] [error] Exception : Call to undefined function getUserById() dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 312
+[2026-03-28 15:21:12] [error] Exception : Call to undefined function getUserById() dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 312
+[2026-03-28 15:21:30] [error] Exception : Call to undefined function getUserById() dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 312
+[2026-03-28 15:23:29] [error] Exception : Call to undefined function getUserById() dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 312
+[2026-03-28 15:36:24] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:41:07] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:42:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:43:05] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:05] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:08] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:25] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:44:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:45:01] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:45:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:47:04] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:52:06] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 15:52:09] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\user\dashboard.php à la ligne 3
+[2026-03-28 15:52:09] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\user\dashboard.php à la ligne 5
+[2026-03-28 15:57:21] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:27] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:35] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:43] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:00:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:01:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:02:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:17] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:03:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:56] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:57] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:05:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:11] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:36] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:06:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:10:24] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:10:33] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:10:38] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:10:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:10:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:10:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:10:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:10:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:10:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:10:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:10:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:05] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:05] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:05] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:05] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:05] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:05] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:05] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:05] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:22] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:22] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:22] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:22] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:22] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:22] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:22] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:22] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:24] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:24] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:24] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:24] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:24] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:24] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:24] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:11:24] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:13:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:17:41] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:44] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:19:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:22:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:22:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:22:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:22:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:22:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:22:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:22:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:23:28] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:23:28] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:23:28] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:23:28] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:23:28] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:23:28] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:23:28] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:23:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:23:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:23:46] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:24:29] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 16:52:11] [error] Exception : Call to undefined function getAllArticles() dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 18
+[2026-03-28 16:52:25] [error] Exception : Call to undefined function getAllArticles() dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 18
+[2026-03-28 16:52:36] [error] Exception : Call to undefined function getAllArticles() dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 18
+[2026-03-28 16:53:19] [error] Erreur [2] : require_once(C:\laragon\www\FashionFamily/src/models/Articles.php): Failed to open stream: No such file or directory dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 2
+[2026-03-28 16:53:19] [error] Exception : Failed opening required 'C:\laragon\www\FashionFamily/src/models/Articles.php' (include_path='.;C:/laragon/etc/php/pear') dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 2
+[2026-03-28 16:53:28] [error] Erreur [2] : Undefined array key "id" dans C:\laragon\www\FashionFamily\src\views\home\index.php à la ligne 42
+[2026-03-28 17:07:36] [error] Erreur [2] : Undefined array key "quantite" dans C:\laragon\www\FashionFamily\src\views\home\index.php à la ligne 53
+[2026-03-28 17:07:36] [error] Erreur [2] : Undefined array key "quantite" dans C:\laragon\www\FashionFamily\src\views\home\index.php à la ligne 53
+[2026-03-28 17:07:36] [error] Erreur [2] : Undefined array key "quantite" dans C:\laragon\www\FashionFamily\src\views\home\index.php à la ligne 53
+[2026-03-28 17:07:36] [error] Erreur [2] : Undefined array key "quantite" dans C:\laragon\www\FashionFamily\src\views\home\index.php à la ligne 53
+[2026-03-28 17:07:36] [error] Erreur [2] : Undefined array key "quantite" dans C:\laragon\www\FashionFamily\src\views\home\index.php à la ligne 53
+[2026-03-28 17:26:45] [error] Erreur [2] : Undefined array key "name" dans C:\laragon\www\FashionFamily\src\controllers\shop.php à la ligne 21
+[2026-03-28 17:34:08] [error] Erreur de requête : SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+[2026-03-28 17:34:08] [error] Exception : getArticleById(): Return value must be of type array, null returned dans C:\laragon\www\FashionFamily\src\models\Article.php à la ligne 56
+[2026-03-28 17:35:13] [error] Erreur de requête : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.username' in 'field list'
+[2026-03-28 17:35:13] [error] Exception : getArticleById(): Return value must be of type array, null returned dans C:\laragon\www\FashionFamily\src\models\Article.php à la ligne 56
+[2026-03-28 17:35:30] [error] Erreur de requête : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'users.username' in 'field list'
+[2026-03-28 17:35:30] [error] Exception : getArticleById(): Return value must be of type array, null returned dans C:\laragon\www\FashionFamily\src\models\Article.php à la ligne 56
+[2026-03-28 17:39:50] [error] Exception : detail(): Argument #1 ($id) must be of type int, string given, called in C:\laragon\www\FashionFamily\src\helpers\router.php on line 104 dans C:\laragon\www\FashionFamily\src\controllers\shop.php à la ligne 15
+[2026-03-28 17:55:05] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-28 18:07:34] [error] Erreur [2] : Undefined variable $article dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:07:34] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:08:34] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:09:38] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:09:42] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:09:42] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:10:23] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:39:32] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:39:40] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:39:40] [error] Erreur [2] : Undefined variable $articles dans C:\laragon\www\FashionFamily\src\views\home\index.php à la ligne 47
+[2026-03-28 18:40:16] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:40:16] [error] Erreur [2] : Undefined variable $articles dans C:\laragon\www\FashionFamily\src\views\home\index.php à la ligne 47
+[2026-03-28 18:40:25] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:40:25] [error] Erreur [2] : Undefined variable $articles dans C:\laragon\www\FashionFamily\src\views\home\index.php à la ligne 47
+[2026-03-28 18:41:28] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:41:54] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:42:12] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:42:13] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:42:25] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:42:33] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:42:45] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:42:45] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:42:46] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:42:55] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-28 18:43:03] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-30 11:31:36] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-30 11:34:13] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-30 11:34:16] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-30 11:36:29] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 10
+[2026-03-30 11:38:12] [error] Exception : syntax error, unexpected end of file dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 17
+[2026-03-30 11:38:29] [error] Erreur [2] : Undefined variable $image dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 13
+[2026-03-30 11:42:31] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 11:55:11] [error] Erreur [2] : Undefined variable $articles dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 26
+[2026-03-30 11:55:27] [error] Erreur de requête : SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = ?' at line 1
+[2026-03-30 11:56:03] [error] Erreur de requête : SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = ?' at line 1
+[2026-03-30 11:56:21] [error] Erreur de requête : SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = ?' at line 1
+[2026-03-30 11:57:31] [error] Erreur de requête : SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE id = ?' at line 1
+[2026-03-30 12:09:38] [error] Erreur [2] : Array to string conversion dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 26
+[2026-03-30 12:09:38] [error] Erreur [2] : Undefined variable $Array dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 26
+[2026-03-30 12:09:50] [error] Erreur [2] : Array to string conversion dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 26
+[2026-03-30 12:09:50] [error] Erreur [2] : Undefined variable $Array dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 26
+[2026-03-30 12:09:51] [error] Erreur [2] : Array to string conversion dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 26
+[2026-03-30 12:09:51] [error] Erreur [2] : Undefined variable $Array dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 26
+[2026-03-30 12:10:04] [error] Erreur [2] : Array to string conversion dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 26
+[2026-03-30 12:10:04] [error] Erreur [2] : Undefined variable $Array dans C:\laragon\www\FashionFamily\src\controllers\home.php à la ligne 26
+[2026-03-30 12:17:56] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 21:33:08] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 21:44:18] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 21:44:29] [error] Erreur [2] : Undefined array key "role" dans C:\laragon\www\FashionFamily\src\controllers\login.php à la ligne 46
+[2026-03-30 21:44:43] [error] Erreur [2] : Undefined array key "role" dans C:\laragon\www\FashionFamily\src\views\user\dashboard.php à la ligne 4
+[2026-03-30 21:48:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 21:51:45] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:01:34] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:02:01] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:05:59] [error] Exception : syntax error, unexpected token ";" dans C:\laragon\www\FashionFamily\src\views\admin\dashboardAdmin.php à la ligne 3
+[2026-03-30 22:08:20] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:09:24] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:12:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:13:23] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:13:23] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:13:24] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:13:25] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:13:26] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:13:26] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:13:26] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:13:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:13:59] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:13:59] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:15:47] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:15:48] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:15:49] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:18:25] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:18:31] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:20:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:20:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:22:55] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:22:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:23:25] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:23:25] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:24:02] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:24:54] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:28:40] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:29:10] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:31:37] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:31:39] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:31:40] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:31:40] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:31:58] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:35:03] [error] Erreur [2] : Undefined variable $articles dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 12
+[2026-03-30 22:35:03] [error] Erreur [2] : foreach() argument must be of type array|object, null given dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 12
+[2026-03-30 22:36:06] [error] Exception : syntax error, unexpected identifier "view" dans C:\laragon\www\FashionFamily\src\controllers\admin.php à la ligne 23
+[2026-03-30 22:36:12] [error] Erreur [2] : Undefined variable $articles dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 12
+[2026-03-30 22:36:12] [error] Erreur [2] : foreach() argument must be of type array|object, null given dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 12
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [8192] : htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 23
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [8192] : htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 23
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [8192] : htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 23
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [8192] : htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 23
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [8192] : htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 23
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [8192] : htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 23
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [8192] : htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 23
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [8192] : htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 23
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [8192] : htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 23
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 15
+[2026-03-30 22:36:22] [error] Erreur [8192] : htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 23
+[2026-03-30 22:36:22] [error] Erreur [2] : Undefined variable $user dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:36:22] [error] Erreur [2] : Trying to access array offset on null dans C:\laragon\www\FashionFamily\src\views\admin\sections\products.php à la ligne 16
+[2026-03-30 22:44:12] [error] Erreur [2] : Undefined variable $dataAdmin dans C:\laragon\www\FashionFamily\src\controllers\dashboard.php à la ligne 43
+[2026-03-30 22:44:12] [error] Exception : view(): Argument #2 ($data) must be of type array, null given, called in C:\laragon\www\FashionFamily\src\controllers\dashboard.php on line 43 dans C:\laragon\www\FashionFamily\src\helpers\functions.php à la ligne 142
+[2026-03-30 22:44:28] [error] Erreur [2] : Undefined variable $title dans C:\laragon\www\FashionFamily\src\views\admin\dashboardAdmin.php à la ligne 1
+[2026-03-30 22:44:28] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\admin\dashboardAdmin.php à la ligne 1
+[2026-03-30 22:44:28] [error] Erreur [2] : Undefined variable $title dans C:\laragon\www\FashionFamily\src\views\admin\dashboardAdmin.php à la ligne 51
+[2026-03-30 22:44:28] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\admin\dashboardAdmin.php à la ligne 51
+[2026-03-30 22:50:26] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-30 22:53:02] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-31 09:39:47] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-31 09:40:32] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-31 09:40:53] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-31 09:42:15] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-31 10:04:30] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-31 10:13:02] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-31 10:15:08] [error] Erreur [2] : Undefined variable $description dans C:\laragon\www\FashionFamily\src\views\partials\header.php à la ligne 7
+[2026-03-31 15:02:48] [error] Exception : Class "ContactController" not found dans C:\laragon\www\FashionFamily\core\Router.php à la ligne 50
+[2026-03-31 15:03:37] [error] Exception : Class "ContactController" not found dans C:\laragon\www\FashionFamily\core\Router.php à la ligne 50
+[2026-03-31 15:03:50] [error] Exception : Class "ContactController" not found dans C:\laragon\www\FashionFamily\core\Router.php à la ligne 50
+[2026-03-31 15:04:31] [error] Exception : Class "ContactController" not found dans C:\laragon\www\FashionFamily\core\Router.php à la ligne 50
+[2026-03-31 15:06:11] [error] Erreur [2] : require(C:\laragon\www\FashionFamily\core/../app/views/contact/index.php): Failed to open stream: No such file or directory dans C:\laragon\www\FashionFamily\core\BaseController.php à la ligne 12
+[2026-03-31 15:06:11] [error] Exception : Failed opening required 'C:\laragon\www\FashionFamily\core/../app/views/contact/index.php' (include_path='.;C:/laragon/etc/php/pear') dans C:\laragon\www\FashionFamily\core\BaseController.php à la ligne 12
+[2026-03-31 15:06:59] [error] Erreur [2] : require(C:\laragon\www\FashionFamily\core/../app/views/contact/index.php): Failed to open stream: No such file or directory dans C:\laragon\www\FashionFamily\core\BaseController.php à la ligne 12
+[2026-03-31 15:06:59] [error] Exception : Failed opening required 'C:\laragon\www\FashionFamily\core/../app/views/contact/index.php' (include_path='.;C:/laragon/etc/php/pear') dans C:\laragon\www\FashionFamily\core\BaseController.php à la ligne 12
+[2026-03-31 17:14:21] [error] Exception : Too few arguments to function Session::getFlash(), 0 passed in C:\laragon\www\FashionFamily\app\views\user\edit-profile.php on line 3 and exactly 1 expected dans C:\laragon\www\FashionFamily\core\Session.php à la ligne 58
+[2026-03-31 17:40:34] [error] Exception : Call to undefined method Sanitizer::input() dans C:\laragon\www\FashionFamily\app\controllers\SellController.php à la ligne 87
+[2026-04-03 18:54:25] [error] Exception : syntax error, unexpected end of file dans C:\laragon\www\FashionFamily\app\views\admin\sections\products.php à la ligne 52
+[2026-04-14 11:03:07] [error] Exception : Call to undefined method Sanitizer::input() dans C:\laragon\www\FashionFamily\app\controllers\ContactController.php à la ligne 17
+[2026-04-16 09:47:49] [error] Exception : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'read_at' in 'where clause' dans C:\laragon\www\FashionFamily\app\models\Message.php à la ligne 96
+[2026-04-16 09:50:58] [error] Exception : SQLSTATE[42S22]: Column not found: 1054 Unknown column 'read_at' in 'where clause' dans C:\laragon\www\FashionFamily\app\models\Message.php à la ligne 96
+[2026-04-16 12:47:33] [error] Exception : Class "HomeController" not found dans C:\laragon\www\FashionFamily\core\Router.php à la ligne 50
+[2026-04-16 12:49:26] [error] Exception : Class "Artile" not found dans C:\laragon\www\FashionFamily\app\controllers\HomeController.php à la ligne 11
+[2026-04-21 16:49:31] [error] Exception : SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fashion_family.articles' doesn't exist dans C:\laragon\www\FashionFamily\app\models\Article.php à la ligne 53
