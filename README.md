@@ -245,17 +245,18 @@ users ──< articles ──< order_items >── orders
 
 Projet réalisé dans le cadre d'un projet de formation professionnelle.
 
-| Contributeur | Rôle                                       |
-| ------------ | ------------------------------------------ |
-| Kevin        | Backend, architecture MVC, base de données |
-| Guenael      | Frontend                                   |
-| Jamila       | Base de données                            |
-| Bilal        | Base de données                            |
-| Harun        | Base de données                            |
+| Contributeur | Rôle                      |
+| ------------ | ------------------------- |
+| Kevin        | Backend, architecture MVC |
+| Guenael      | Frontend                  |
+| Jamila       | Base de données           |
+| Bilal        | Base de données           |
+| Harun        | Base de données           |
 
 ---
 
 ## Licence
 
 Ce projet est distribué à des fins éducatives.
+
 # fashionfamily
