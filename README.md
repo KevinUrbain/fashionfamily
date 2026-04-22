@@ -152,7 +152,6 @@ Toutes les options se trouvent dans `config/config.php`.
 | ------------------ | ----------------------------------- | --------------------------------------- |
 | `ENVIRONMENT`      | `development`                       | Mode `production` pour la mise en ligne |
 | `DB_*`             | `localhost / fashion_family / root` | Connexion MySQL                         |
-| `SECRET_KEY`       | _(à changer)_                       | Clé de signature des sessions           |
 | `SESSION_LIFETIME` | `7200`                              | Durée de session en secondes            |
 | `ITEMS_PER_PAGE`   | `10`                                | Pagination du catalogue                 |
 | `MAX_UPLOAD_SIZE`  | `5MB`                               | Taille max des images produits          |
