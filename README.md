@@ -1,7 +1,7 @@
 # Fashion Family
 
-> Marketplace de mode et articles d'occasion — achetez, vendez, échangez.
-
+> Marketplace d'articles neufs et d'occasion — achetez, vendez, échangez.
+> 
 Fashion Family est une plateforme e-commerce complète développée en PHP, permettant aux utilisateurs de mettre en vente et d'acheter des articles de mode et d'autres produits d'occasion. Le projet repose sur une architecture MVC maison, sans dépendance à un framework externe.
 
 ---
